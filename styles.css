@@ -1,0 +1,35 @@
+body{
+background-color: rgb(34, 30, 28);
+color: white;
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
+    h1{
+        color: rgb(247, 6, 214);
+        border: solid 1px burlywood;
+    }
+    p{
+        border: solid 1px burlywood;
+    }
+    img{
+        border: solid 5px burlywood;
+    }
+    img{
+        height: 300px;
+        width: 220px;
+    }
+    button{
+        background-color: seagreen;
+        border: solid 2px rgba(255, 255, 255, 0.863);
+        width: 100px;
+        height: 50px;
+        color: rgb(235, 213, 213);
+        border-radius: 10px
+    }
+    button:hover{
+        background-color: rgb(235, 213, 213);
+        border: solid 2px seagreen;
+        width: 100px;
+        height: 50px;
+        color: seagreen;
+        border-radius: 10px
+    }
